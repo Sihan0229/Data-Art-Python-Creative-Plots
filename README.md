@@ -31,7 +31,9 @@ This repository includes image code for the following types:
 
 ## Contribution
 
-Contributions and creative ideas are welcome! If you have any suggestions or issues, please submit an Issue or Pull Request.
+Contributions and creative ideas are welcome!
+
+If you have any suggestions or issues, please submit an Issue or Pull Request.
 
 ## Example Images
 
